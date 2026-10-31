@@ -3,6 +3,8 @@
 > Description made by Claude Opus 5.5
 > No guarantee to be 100% accurate
 
+**Dowloads at [sollerto.de](https://sollerto.de)**
+
 Press **Insert** in the game to open the menu. While it's open, the mouse is free and your character and camera stand still; closing it gives you control back. Anything marked **HOST** only works when you host or play solo. Everything else also works in a friend's game. Any switch or button can get its own hotkey: right-click it and press a key.
 
 **Free and members:** without an account you get the Player, ESP and HUD tabs and the menu settings. Everything else is marked **MEMBER** in the menu and unlocks when you sign in to [sollerto.de](https://sollerto.de) (Menu tab, Sign in). The Offline download has no sign-in and everything unlocked (upload to UnknownCheats).
